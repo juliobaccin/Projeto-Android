@@ -4,3 +4,4 @@ Desenvolvido por <a target="_blank" rel="external" href="https://github.com/juli
 
 https://juliobaccin.github.io/projeto-android/
 
+<a target="_blank" rel="external" href="https://github.com/juliobaccin/projeto-android/blob/main/Site%20Android.gif">
