@@ -9,4 +9,4 @@ Projeto-Android - Site Responsivo
 https://juliobaccin.github.io/Projeto-Android/
 
 
-<img width="415" height="415" src="https://github.com/juliobaccin/projeto-android/blob/main/Site%20Android.gif"><img align="rigth" width="415" height="415" src="https://user-images.githubusercontent.com/101740786/159775856-0a774a67-a233-4ba2-b801-e16556ee3784.png">
+<img width="415" height="415" src="https://github.com/juliobaccin/Projeto-Android/blob/main/apresenta%C3%A7%C3%A3o.gif"><img align="rigth" width="415" height="415" src="https://user-images.githubusercontent.com/101740786/159775856-0a774a67-a233-4ba2-b801-e16556ee3784.png">
