@@ -10,6 +10,14 @@ Projeto Android - Site Responsivo
  você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-Android/">aqui</a>
 </p>
 
-<img width="415" height="415" src="https://github.com/juliobaccin/Projeto-Android/blob/main/apresenta%C3%A7%C3%A3o.gif"><img align="rigth" width="415" height="415" src="https://user-images.githubusercontent.com/101740786/159775856-0a774a67-a233-4ba2-b801-e16556ee3784.png">
+<h3 align="center">
+ Apresentação do Site
+</h3>    
+<img align="center" src="https://github.com/juliobaccin/Projeto-Android/blob/main/apresenta%C3%A7%C3%A3o%20site.gif">
+
+<h3 align="center">
+Responsividade
+</h3> 
+<img align="center" src="https://github.com/juliobaccin/Projeto-Android/blob/main/responsividade.gif">
 
    
