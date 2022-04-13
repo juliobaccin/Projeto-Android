@@ -15,5 +15,12 @@ Projeto Android - Site Responsivo
   <h3>
     Apresentação do Site
   </h3> 
-<img width="250" height="250" src="https://github.com/juliobaccin/Projeto-Android/blob/main/apresenta%C3%A7%C3%A3o%20site.gif">
+<img width="637px height="837px" src="https://github.com/juliobaccin/Projeto-Android/blob/main/apresenta%C3%A7%C3%A3o%20site.gif">
+</div>
+
+<div align="center">
+  <h3>
+    Responsividade
+  </h3> 
+<img src="https://github.com/juliobaccin/Projeto-Android/blob/main/responsividade.gif">
 </div>
